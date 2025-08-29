@@ -1,0 +1,38 @@
+Title: Manic Monday
+Key: D
+Meter: 4/4
+Tempo: 110 bpm
+Style: Rock
+$Artist: Bangles
+$Arranger:
+
+IN:
+  // piano solo
+  ||: 1 4_2 1 4_3_2 :||
+
+V:
+  // Six o'clock already
+  1 4 1 4_2 * 1 4 1 4_3_2
+  1 4 1 4_2 * 5 5 1 <5>
+
+CH:
+  1 4_3_2 1 4_3_2 * 1 4_3_2 1 5 * <1>
+
+V2:
+  // Have to catch an early train
+  1 4 1 4_2 * 1 4 1 4_3_2
+  1 4 1 4_2 * 5 5 1 <5>
+
+CH:
+  1 4_3_2 1 4_3_2 * 1 4_3_2 1 5 * 1
+
+BR:
+  6 6 2 2 * 4 5 6 6
+  // guitar break on the 5
+  1 2 <5>_<5>_<5>
+  // weird ethereal, bass cue
+  x x <5>
+
+CH:
+  1 4_3_2 1 4_3_2 * 1 4_3_2 1 4_3_5
+  1 4_3_2 1 4_3_2 * 1 4_3_5 <1>

@@ -1,0 +1,50 @@
+Title: Sweet Dreams
+Key: C
+Meter: 4/4
+Tempo: 120 bpm
+Style: Thumping Techno
+$Artist: Eurythmics
+$Arranger:
+
+IN:
+  // synth sequencer, bass on downbeat
+  ||: 1- 6_5 :||
+
+V1:
+  // sequencer
+  ||: 1- 6_5 :||{8}
+
+CH1:
+  // no sequencer on CH
+  6 5 1- 4- 6 5
+
+V2:
+  // sequencer
+  ||: 1- 6_5 :||{4}
+
+CH2:
+  6 5 1- 4- 6 5
+  // enter piano, major IV
+  1 4 1d7 4 * 1 4 1d7 <4>
+
+SOLO:
+  // synth solo + sequencer
+  ||: 1- 6_5 :||{4}
+
+V3:
+  // sequencer
+  ||: 1- 6_5 :||{4}
+
+CH3:
+  4-=4-_5 1 4- 4- 5
+
+V4:
+  // sequencer
+  ||: 1- 6_5 :||{4}
+
+OUT:
+  // drums + bass downbeat
+  ||: X X X X :||{4}
+  // sequencer + synth solo
+  ||: 1- 6_5 :||{8}
+  

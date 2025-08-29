@@ -1,0 +1,25 @@
+Title: Walking on Sunshine
+Key: Bb
+Meter: 4/4
+Tempo: 110 bpm
+Style: Rock
+$Artist: Katrina & The Waves
+$Arranger:
+
+DRUMS:
+  // drums 4 measures
+  X X X X 
+IN:
+  // FORM: IN + V + CH 3x
+  ||: 1 4 5 4 :||{2}
+
+V:
+  // extra 4 bars for instrumental
+  ||: 1 4 5 4 :||{4}
+
+CH:
+  ||: 3 2 :||{3}
+
+OUT:
+  // vamp to fade
+  ||: 1 4 5 4 :||{12}

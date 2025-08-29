@@ -1,0 +1,46 @@
+Title: Black Velvet
+Key: Eb
+Meter: 4/4
+Tempo: 80 bpm
+Style: Blues
+$Artist: Alannah Myles
+$Arranger:
+
+IN:
+  // guitar starts
+  1- %%% * 1- %%%
+
+V1:
+  1- %%% * 1- %%%
+  5sus_5 4sus_4 3sus_3 6sus_6
+
+CH:
+  4- b7 4- b2_6
+  4- b7 6_5
+
+IN:
+  1- %%%
+
+V2:
+  1- %%% * 1- %%%
+  5sus_5 4sus_4 3sus_3 6sus_6
+
+CH:
+  4- b7 4- b2_6
+  4- b7 6_5 * 1- 1-
+
+BR:
+  4- 5 1- 1-
+  4- b2 <6> <5>
+
+IN:
+  // guitar solo
+  1- %%% * 1- %%%
+
+CH:
+  // 2nd time wait for voice
+  ||: 4- b7 4- b2_6
+  4- b7 6_5 1- :||
+
+OUT:
+  1- %%% * 1- %%%

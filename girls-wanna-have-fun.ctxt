@@ -1,0 +1,44 @@
+Title: Girls Just Want to Have Fun
+Key: F#
+Meter: 4/4
+Tempo: 110 bpm
+Style: Rock
+$Artist: Lauper
+$Arranger:
+
+IN:
+  // brass synth
+  ||: 1 1 6 6._2_5 :||
+
+V1:
+  1 1 6 6 * 4 4._5 6_5 4 * 6_5
+
+IN:
+  // brass synth
+  1 1 6 6._2_5
+
+V2:
+  1 1 6 6 * 4 4_5 6_5 4 * 6_5
+  // string phaser
+  1 1 6 6 * 1 1 6_5 4 * 6_5
+
+IN:
+  // brass synth
+  1 1 6 6._2_5
+
+SOLO:
+  // wood synth solo
+  ||: 1 1 6 6 :||
+
+V3:
+  1 1 6 6 * 4 4_5 6_5 4 * 6_5
+  // string phaser
+  1 1 6 6 * 1 1 6_5 4 * 6_5
+
+IN:
+  // brass synth
+  1 1 6 6._2_5
+
+OUT:
+  // Just wanna, just wanna
+  ||: 1 6_2_5 1 6_2_5 :||{8}

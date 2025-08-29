@@ -1,0 +1,40 @@
+Title: Holiday
+Key: G
+Meter: 4/4
+Tempo: 110 bpm
+Style: House Groove
+$Artist: Madonna
+$Arranger:
+
+IN:
+  // G Lydian w/C#
+  // chords > horn synth > bass > wah synth
+  ||: 1_2< 2_3-< 1_2< 7-_1< :||{4}
+
+IN:
+  // Holiday, celebrate
+  ||: x x x x :||{2}
+
+V1:
+  // If we took a holiday
+  ||: x x x x :||{8}
+
+SOLO1:
+  // wah synth + delay
+  ||: x x x x :||{2}
+
+V2:
+  // you can turn this world around
+  ||: x x x x :||{4}
+
+SOLO2:
+  // wah synth + delay
+  ||: x x x x :||{2}
+
+OUT:
+  // drum + bass
+  x x x x
+  // drums only
+  x x x x
+  // bass + wah synth enter, fade out
+  ||: x x x x :||

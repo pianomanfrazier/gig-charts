@@ -1,0 +1,43 @@
+Title: I Think We're Alone Now
+Key: D
+Meter: 4/4
+Tempo: 120 bpm
+Style: 80s Rock
+$Artist: Tiffany
+$Arranger:
+
+IN:
+  // drum 8 beats
+  // boomwacker synth, bass enters 2nd time
+  1 5 4 1 * 1 5 4 1
+
+V1:
+  // Children behave...
+  1 3- 6- 5 * 1 3- 6- 5
+  3- 1 3- 1 * b7 b7 5 5
+
+CH:
+  // DX Bells
+  1 5 4 1 * 1 5 4 1
+  X X X X
+
+V2:
+  1 3- 6- 5 * 1 3- 6- 5
+  3- 1 3- 1 * b7 b7 5 5
+
+CH:
+  ||: 1 5 4 1 * 1 5 4 1 :||
+
+V3:
+  // synth solo
+  1 3- 6- 5 * 1 3- 6- 5
+  // voice re-enter
+  3- 1 3- 1 * b7 b7 5 5
+
+CH:
+  // boomwacker, no bass
+  ||: 1 5 4 1 * 1 5 4 1 :||
+  X X
+  // guitar solo, add in bass 2nd time
+  ||: 1 5 4 1 * 1 5 4 1 :||{4}
+  

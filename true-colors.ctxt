@@ -1,0 +1,28 @@
+Title: True Colors
+Key: C
+Meter: 4/4
+Tempo: 110 bpm
+Style: Ballad
+$Artist: Lauper
+$Arranger:
+
+IN:
+  // IN + V + CH repeats 3 times
+  // 8 beats drums, guitar + pads, synth solo 2nd & 3rd
+  ||: 6-_5/7 1_4< :|| 
+
+V1:
+  6-_5/7 1_1/3 4 6-_5 * 1_2- 3-_4 6-_5< 4_1<
+
+CH:
+  4_1 5sus_5 * 4_1/3 4_5
+  4_1< 4_6-< * 4_1 4_1 <5sus>
+  /* Repeat IN + V + CH 3x */
+
+OUT:
+  4_1 5sus_5 * 4_1/3 4_5
+  // bit slower, watch the V/vi
+  4_1< 3_6-< * 4_1 4_1 <5sus>
+  /*pause - like rainbows*/
+  // synth solo out
+  6-_5/7 1_<4>

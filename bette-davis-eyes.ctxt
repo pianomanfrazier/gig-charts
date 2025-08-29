@@ -1,0 +1,41 @@
+Title: Bette Davis Eyes
+Key: F
+Meter: 4/4
+Tempo: 120 bpm
+Style: Soft Rock
+$Artist: Kim Carnes
+$Arranger:
+
+IN:
+  // drums, guitar, pads
+  ||: 4_6- 5 :||{4}
+
+V1:
+  // Her hair is...
+  4_6- 5 4_5 1 * 4_6- 5 1_1/3 4_6- 5
+  4_5 6- 4_6- 5 * 1 1/b7 6- 1 
+  4 1 6- 1 * 4 1 4 6- 5
+
+IN:
+  ||: 4_6- 5 :||{2}
+
+V2:
+  // She let you take her home...
+  4_6- 5 4_5 1 * 4_6- 5 1_1/3 4_6- 5
+  4_5 6- 4_6- 5 * 1 1/b7 6- 1 
+  4 1 6- 1 * 4 1 4 6- 5
+
+IN:
+  // clap
+  ||: 4_6- 5 :||{3}
+
+V3:
+  1 1/b7 6- 1 
+  4 1 6- 1 * 4 1 4 6- 5
+
+OUT:
+  // clap
+  ||: 4_6- 5 :||{4}
+  // She tease you...
+  ||: 4_6- 5 4_6- 5 * 4_6- 5 4_5 1 :||
+  
