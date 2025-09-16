@@ -14,11 +14,10 @@ IN:
   ||: 1 4 5 4 :||{2}
 
 V:
-  // extra 4 bars for instrumental
-  ||: 1 4 5 4 :||{4}
+  ||: 1 4 5 4 :||{8}
 
 CH:
-  ||: 3 2 :||{3}
+  ||: 3- 2- :||{3}
 
 OUT:
   // vamp to fade

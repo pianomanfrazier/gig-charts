@@ -1,0 +1,49 @@
+Title: 99 Luftballoons
+Key: E
+Meter: 4/4
+Tempo: 80 bpm
+Style: Ballad
+$Artist: Nena
+$Arranger:
+
+V1:
+  // ethereal pads
+  // hold bass note pad
+  ||: 1 2- 4 5sus_5 :||
+
+IN:
+  // groovy, bass synth + drums
+  // lick 1
+  ||: 1 1 :||{4}
+  // lick 2, bass joins
+  ||: 1 1 :||{4}
+
+V2:
+  ||: 1 2- 4 5 :||{4}
+
+SOLO:
+  // synth solo
+  ||: 1 2- 4 5 :||{2}
+
+V3:
+  ||: 1 2- 4 5 :||{4}
+
+IN:
+  // groovy, bass synth + drums
+  // lick 1
+  ||: 1 1 :||{2}
+  // lick 2, bass joins
+  ||: 1 1 :||{4}
+
+V4:
+  ||: 1 2- 4 5 :||{4}
+
+SOLO:
+  // synth solo
+  ||: 1 2- 4 5 :||{4}
+  <1> /*hold it*/
+
+V5:
+  // slow, ethereal
+  // pads, end on the 5
+  ||: 1 2- 4 5sus_5 :||

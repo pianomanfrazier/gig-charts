@@ -1,0 +1,38 @@
+Title: These Dreams
+Key: A
+Meter: 4/4
+Tempo: 110 bpm
+Style: Rock
+$Artist: Page & Taupin
+$Arranger:
+
+IN:
+  ||: 1-sus 4-sus 5-7 6add2 :||
+  <6add2>
+
+V1:
+  1-sus 4-sus_5-7 * 1-sus 4-sus_5-7
+  6add2 1-sus 6add2_3/5 4-7 1-7._3/5
+
+CH:
+  ||: 7/2_6/1 3/7._4_3/5 :||{3}
+  7/2_6/1 3/7_<6add2>
+
+V2:
+  1-sus 4-sus_5-7 * 1-sus 4-sus_5-7
+  6add2 1-sus 6add2_3/5 4-7 1-7._3/5
+
+CH:
+  ||: 7/2_6/1 3/7._4_3/5 :||{3}
+  7/2_6/1 3/7_<6add2> 7sus/*hits*/_X
+
+BR:
+  6/3_3 7/2 6/3_3 7sus/*hits*/ * 6_5<_4<_3<
+
+V3:
+  1-sus 4-sus_5-7 * 1-sus 4-sus_5-7
+  6add2 1-sus 6add2_3/5 4-7 1-7._3/5
+
+CH:
+  ||: 7/2_6/1 3/7._4_3/5 :||{3}
+  7/2_6/1 3/7_<6add2>
